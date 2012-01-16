@@ -1,5 +1,3 @@
-// (c) 2009 Tomas Hlavaty
-
 function isQuoted(V) {
   return V.q;
 }
